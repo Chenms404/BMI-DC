@@ -9,13 +9,13 @@ Synthesizing Invariant Barrier Certificates via Difference-of-Convex Programming
 
 ## Information on the implementation
 
-Current version: v1.0
+Current version: v1.0</br>
 Validated on platform: Wolfram *Mathematica* 12.1.0.0, 64 bit-CentOS Linux-7.8.2003
 
-Corresponding e-mail: chenms@cs.rwth-aachen.de
+Corresponding e-mail: chenms@cs.rwth-aachen.de</br>
 List of contributors: Mingshuai Chen, Qiuye Wang, Bai Xue, Naijun Zhan, Joost-Pieter Katoen,
 
-Comments and bug-reports are highly appreciated.
+Comments and bug-reports are highly appreciated.</br>
 © 2021 Lehrstuhl für Informatik 2, RWTH Aachen University. MIT Licensed.
 
 ## How to use the notebook?
