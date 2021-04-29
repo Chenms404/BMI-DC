@@ -16,7 +16,7 @@ Corresponding e-mail: chenms@cs.rwth-aachen.de</br>
 List of contributors: Mingshuai Chen, Qiuye Wang, Bai Xue, Naijun Zhan, Joost-Pieter Katoen,
 
 Comments and bug-reports are highly appreciated.</br>
-© 2021 Lehrstuhl für Informatik 2, RWTH Aachen University. MIT Licensed.
+© 2021 Lehrstuhl für Informatik 2, RWTH Aachen University. [MIT Licensed](https://github.com/Chenms404/BMI-DC/blob/main/LICENSE).
 
 ## How to use the notebook?
 
