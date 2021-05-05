@@ -1,5 +1,7 @@
 # Synthesizing invariant barrier certificates
 
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://choosealicense.com/licenses/mit/)
+
 This prototypical implementation (as a *Mathematica* Notebook) is dedicated to synthesizing invariant barrier certificates via difference-of-convex programming. It takes as input a differential dynamical system together with an initial and an unsafe set, and tries to find an invariant barrier certificate B(x) (in the form of a given template) that suffices to prove unbounded-time safety of the system.
 
 For more technical details, please refer to our CAV'21 paper:
