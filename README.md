@@ -1,7 +1,7 @@
 # Synthesizing invariant barrier certificates
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4725465.svg)](https://doi.org/10.5281/zenodo.4725465)
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/Chenms404/BMI-DC/blob/main/LICENSE)
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Chenms404/BMI-DC/blob/main/LICENSE)
 
 This prototypical implementation (as a *Mathematica* Notebook) is dedicated to synthesizing invariant barrier certificates via difference-of-convex programming. It takes as input a differential dynamical system together with an initial and an unsafe set, and tries to find an invariant barrier certificate B(x) (in the form of a given template) that suffices to prove unbounded-time safety of the system.
 
