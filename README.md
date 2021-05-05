@@ -1,5 +1,7 @@
 # Synthesizing invariant barrier certificates
 
+[![Mathematica Notebook](https://wolfr.am/lA6mO5hv)](https://github.com/Chenms404/BMI-DC/blob/main/BMI-Invariant.nb)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4725465.svg)](https://doi.org/10.5281/zenodo.4725465)
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Chenms404/BMI-DC/blob/main/LICENSE)
 
