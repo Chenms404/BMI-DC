@@ -18,7 +18,7 @@ Current version: v1.0</br>
 Validated on platform: Wolfram *Mathematica* 12.1.0.0, 64 bit-CentOS Linux-7.8.2003
 
 Corresponding e-mail: chenms@cs.rwth-aachen.de</br>
-List of contributors: Mingshuai Chen, Qiuye Wang, Bai Xue, Naijun Zhan, Joost-Pieter Katoen,
+List of contributors: Mingshuai Chen, Qiuye Wang, Bai Xue, Naijun Zhan, Joost-Pieter Katoen
 
 Comments and bug-reports are highly appreciated.</br>
 © 2021 Lehrstuhl für Informatik 2, RWTH Aachen University. [MIT Licensed](https://github.com/Chenms404/BMI-DC/blob/main/LICENSE).
@@ -34,4 +34,3 @@ Comments and bug-reports are highly appreciated.</br>
 3. Run the implementation on a collection of benchmark examples simply by clicking in the **Evaluation** panel **Evaluate Notebook**. This may take around 10mins. You can also run a single cell (where your cursor is) by pressing `SHIFT+ENTER`.
 4. Test your own examples in the same vein as the provided examples (with explanations on the arguments) in the notebook.
 5. Enjoy.
-
