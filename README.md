@@ -10,7 +10,7 @@ This prototypical implementation (as a *Mathematica* Notebook) is dedicated to s
 For more technical details, please refer to our CAV'21 paper:
 
 > Qiuye Wang, Mingshuai Chen, Bai Xue, Naijun Zhan, Joost-Pieter Katoen:
-Synthesizing Invariant Barrier Certificates via Difference-of-Convex Programming. In Proc. of CAV'21, to appear.
+Synthesizing Invariant Barrier Certificates via Difference-of-Convex Programming. In Proc. of CAV'21, pages 443–466, 2021. [Arfifact Evaluated].
 
 ## Information on the implementation
 
